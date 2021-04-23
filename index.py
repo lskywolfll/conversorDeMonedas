@@ -36,11 +36,6 @@ if __name__ == '__main__':
         flujo("Colombianos", 3875)
     elif opcion == 2:
         flujo("Chilenos", 723.75)
-        # dolares_obtenido = input("¿Cuántos dolares tienes ?: ")
-        # dolares_obtenido = float(dolares_obtenido)
-        # exchange_to_clp = round(convert_to_clp(dolares_obtenido, valor_dolar), 2)
-
-        # print(f"Tus ${dolares_obtenido} son equivalentes a ${exchange_to_clp} clp")
     elif opcion == 3:
         flujo("Argentinos", 65)
     elif opcion == 4:
